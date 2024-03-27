@@ -1,1 +1,1 @@
-alert('remote1');
+console.log(66)
